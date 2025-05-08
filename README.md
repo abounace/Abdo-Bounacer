@@ -1,3 +1,4 @@
 # Abdo-Bounacer
-Este es el repositorio de las tareas de clase de Abdo
-Aweb
+**Taller-github**
+Este repositorio contiene información para alojar un proyecto de documentación en GitHub.
+**Asunciones y pre-requisitos**
