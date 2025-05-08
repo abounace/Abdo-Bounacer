@@ -1,6 +1,7 @@
 # Abdo-Bounacer
 **Taller-github**  
 Este repositorio contiene información para alojar un proyecto de documentación en GitHub.  
+
   
 **Asunciones y pre-requisitos**  
 Para poder seguir este taller, deberás tener un conocimiento básico de informática y que estés acostumbrado/a a ejecutar comandos en
