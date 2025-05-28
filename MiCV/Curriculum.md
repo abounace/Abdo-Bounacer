@@ -1,4 +1,4 @@
-# ![Foto de perfil](foto.jpg)
+# ![Foto de curriculum](foto.jpg)
 
 # Currículum Vitae
 
